@@ -1,3 +1,6 @@
 [submodule "config/kitty/kitty-themes"]
 	path = config/kitty/kitty-themes
 	url = https://github.com/dexpota/kitty-themes.git
+[submodule "config/passthrough/evdev_helper"]
+	path = config/passthrough/evdev_helper
+	url = https://github.com/pavolelsig/evdev_helper.git
